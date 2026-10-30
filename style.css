@@ -5,3 +5,7 @@ body {
 title {
   color: #1f4eb3; 
 }
+
+p {
+  color: rgb(0, 0, 0); 
+}
